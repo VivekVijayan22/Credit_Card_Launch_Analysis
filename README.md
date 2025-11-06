@@ -44,7 +44,7 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 ## Recommendations
 - Focus marketing efforts on the 25-34 & 35-45 age groups due to their high credit card usage based on Mumbai and Delhi NCR regions.
 - Regularly update promotions and offers to align with evolving consumer behavior. 
-- Explore partnerships or introduce specialized rewards or discounts to boost spending in bills, groceries, electronics, food, health and travel categories to f---Further enhance credit card usage.
+- Explore partnerships or introduce specialized rewards or discounts to boost spending in bills, groceries, electronics, food, health and travel categories to Further enhance credit card usage.
 - Craft specialized (loyalty programs or perks) credit card offers for Salaried IT employees & freelancers, considering their higher usage.
 - Introduce exclusive benefits for Salaried other employees and Business owners to increase their average income utilization.
 - Align credit card features with peak spending months like August and September. 
