@@ -8,7 +8,7 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 - To Identify High Value Customer Segments.
 - Utilize insights for informed decision-making, guiding the bank's strategy in the new credit card expansion project.
   ## Tech Stack
-- **Power BI**:For Data Modelling and Data Visualization 
+- **Power BI**: For Data Modelling and Data Visualization 
 - **Excel**: For data cleaning and preprocessing
 # Data Model
 ![Data model](Data_model.png)
